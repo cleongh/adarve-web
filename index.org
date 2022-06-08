@@ -1,0 +1,17 @@
+#+TITLE: ADARVE (Análisis de Datos de Realidad Virtual para formación en Emergencias Radiológicas)
+#+AUTOR: Universidad Complutense de Madrid
+
+* Descripción
+
+El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Emergencias Radiológicas) es un proyecto de investigación financiado por el [[https://www.csn.es/home][Consejo de Seguridad Nuclear]].
+
+* Objetivo
+
+El objetivo de ADARVE es crear un sistema de experimentación con realidad virtual para entrenamiento en emergencias radiológicas.
+
+* Sistema
+
+#+caption: Ejemplo de funcionamiento del sistema ADARVE.
+#+attr_html: :width 100%
+[[./captura_adarve.png]]
+
