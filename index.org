@@ -15,3 +15,6 @@ El objetivo de ADARVE es crear un sistema de experimentación con realidad virtu
 #+attr_html: :width 100%
 [[./captura_adarve.png]]
 
+* Enlaces
+
+- [[http://nil.fdi.ucm.es/?q=projects/adarve][Enlace al proyecto en la página de investigación del grupo NIL-UCM]].
