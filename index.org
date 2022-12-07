@@ -11,9 +11,15 @@ El objetivo de ADARVE es crear un sistema de experimentación con realidad virtu
 
 * Sistema
 
-#+caption: Ejemplo de funcionamiento del sistema ADARVE.
-#+attr_html: :width 100%
-[[./captura_adarve.png]]
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-xYmx7OGaA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+# #+caption: Ejemplo de funcionamiento del sistema ADARVE.
+# #+attr_html: :width 100%
+# [[./captura_adarve.png]]
+
 
 * Enlaces
 
