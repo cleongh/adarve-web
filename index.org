@@ -7,7 +7,7 @@ El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Em
 
 * Objetivo
 
-El objetivo de ADARVE es crear un sistema de experimentación con realidad virtual para entrenamiento en emergencias radiológicas.
+El objetivo del proyecto ADARVE es crear un sistema de experimentación con realidad virtual para entrenamiento en emergencias radiológicas.
 
 * Sistema
 
