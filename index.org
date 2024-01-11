@@ -12,6 +12,17 @@ El objetivo del proyecto ADARVE es crear un sistema de experimentación con real
 * Sistema
 
 
+#+caption: Captura de pantalla de la fase de iniciación a la plataforma expermiental.
+#+attr_html: :width 100%
+#+name: fig:snap1
+[[./s1.png]]
+
+#+caption: Ejemplo de escenario de accidente con un personaje no jugador.
+#+attr_html: :width 100%
+#+name: fig:snap2
+[[./s2.png]]
+
+
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-xYmx7OGaA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
@@ -23,6 +34,14 @@ El objetivo del proyecto ADARVE es crear un sistema de experimentación con real
 
 * Publicaciones
 
+- Un Modelo de Objetivos de Aprendizaje y una Metodología Basados en Tutoriales para el Entrenamiento en Escenarios de Emergencia Radiológica. Alejandro Villar Rubio y Carlos León. Revista Digital de la Asociación Interacción Persona-Ordenador (AIPO). Volumen 4, número 2 (2023). Eds: Sergio Sayago y Manel Díaz. ISSN: 2695-6578. DOI: https://revista.aipo.es/index.php/INTERACCION/article/view/96/96
+- Automatic identification of secondary narratives in videogames. Alejandro Marín, Alejandro Ruiz, Carlos León. 2023. 2º Congreso Español de Videojuegos. Facultad de Informática UCM, Madrid. DOI: https://ceur-ws.org/Vol-3599/short_1.pdf
+- An evaluation on the effectiveness of virtual tutorials for training emergency professionals. Alejandro Villar, Carlos León. 2023. 2º Congreso Español de Videojuegos. Facultad de Informática UCM, Madrid. DOI: https://ceur-ws.org/Vol-3599/paper_10.pdf
+- Virtual Reality Skills Acquisition in Simulated Radiation Emergency Response Learning. Alejandro Villar y Carlos León. XXIII Congreso Internacional de Interacción Persona-Ordenador, Lleida (Septiembre 4-6, 2023)
+- User performance Analysis in Guided and Non-Guided Stressful Virtual Reality Scenarios. Alejandro Villar y Carlos León. 10th International Conference on Human Interaction & Emerging Technologies, Niza, Francia (Agosto 22-24, 2023)
+- Evolutionary combination of connected event schemas into meaningful plots. Gervás, P., Méndez, G. & Concepción, E. Genet Program Evolvable Mach 24, 7 (2023). https://doi.org/10.1007/s10710-023-09454-2
+- Improving Efficiency and Coherence in Evolutionary Story Generation, P. Gervás, in 14th International Conference on Computational Creativity, Waterloo, Ontario, Canada, 2023.
+- Using ChatGPT for Story Sifting in Narrative Generation, G. Méndez and Gervás, P., in 14th International Conference on Computational Creativity, Waterloo, Ontario, Canada, 2023.
 - Virtual Reality Skills Acquisition in Simulated Radiation Emergency Response Learning. Alejandro Villar y Carlos León. XXIII Congreso Internacional de Interacción Persona-Ordenador, Lleida (Septiembre 4-6, 2023)
 - User performance Analysis in Guided and Non-Guided Stressful Virtual Reality Scenarios. Alejandro Villar y Carlos León. 10th International Conference on Human Interaction & Emerging Technologies, Niza, Francia (Agosto 22-24, 2023)
 - Evolutionary combination of connected event schemas into meaningful plots. Gervás, P., Méndez, G. & Concepción, E. Genet Program Evolvable Mach 24, 7 (2023). https://doi.org/10.1007/s10710-023-09454-2
@@ -31,7 +50,6 @@ El objetivo del proyecto ADARVE es crear un sistema de experimentación con real
 - Improving performance in collaborative games through personality-based matchmaking. Alejandro Villar y Carlos León. I Congreso Español de Videojuegos, Madrid (Diciembre 1-2, 2022)
 - A Discourse Interpretation Engine Sensitive to Truth Revisions in a Story, Pablo Gervás. Tenth Annual Conference on Advances in Cognitive Systems, Arlington, Virginia, 2022.
 - Generating Plotlines about Attempting to Avert Disasters, Pablo Gervás. Thirteenth International Conference on Computational Creativity, 2022.
-
 
 * Enlaces
 
