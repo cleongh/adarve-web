@@ -34,7 +34,9 @@ El objetivo del proyecto ADARVE es la creación un sistema de experimentación c
 
 * Publicaciones
 
-- Realidad virtual para entrenamiento en emergencias radiológicas. Carlos León, Alejandro Villar Rubio, Pablo Gervás y Gonzalo Méndez. Alfa. Consejo de Seguridad Nuclear, España. 2024. Páginas 52–53. Vol. 57. DOI: https://www.csn.es/documents/10182/13557/Alfa+57/fb8a5187-763f-3651-fdc2-e454d4c6fdeb?version=1.0. ISSN (Online): 1888-8925.
+
+- Pruning Worlds into Stories: Affective Interactions as Fitness Function. P. Gervás and Méndez, G., in 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART), Aberystwyth, United Kingdom, 2024.
+- Realidad virtual para entrenamiento en emergencias radiológicas. Carlos León, Alejandro Villar Rubio, Pablo Gervás y Gonzalo Méndez. Alfa. Consejo de Seguridad Nuclear, España. Páginas 52–53. Vol. 57. DOI: https://www.csn.es/documents/10182/13557/Alfa+57/fb8a5187-763f-3651-fdc2-e454d4c6fdeb?version=1.0. ISSN (Online): 1888-8925.
 - Un Modelo de Objetivos de Aprendizaje y una Metodología Basados en Tutoriales para el Entrenamiento en Escenarios de Emergencia Radiológica. Alejandro Villar Rubio y Carlos León. Revista Digital de la Asociación Interacción Persona-Ordenador (AIPO). Volumen 4, número 2 (2023). Eds: Sergio Sayago y Manel Díaz. ISSN: 2695-6578. DOI: https://revista.aipo.es/index.php/INTERACCION/article/view/96/96
 - Automatic identification of secondary narratives in videogames. Alejandro Marín, Alejandro Ruiz, Carlos León. 2023. 2º Congreso Español de Videojuegos. Facultad de Informática UCM, Madrid. DOI: https://ceur-ws.org/Vol-3599/short_1.pdf
 - An evaluation on the effectiveness of virtual tutorials for training emergency professionals. Alejandro Villar, Carlos León. 2023. 2º Congreso Español de Videojuegos. Facultad de Informática UCM, Madrid. DOI: https://ceur-ws.org/Vol-3599/paper_10.pdf
