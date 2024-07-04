@@ -23,6 +23,23 @@ El objetivo del proyecto ADARVE es la creación un sistema de experimentación c
 [[./s2.png]]
 
 
+#+caption: Captura de pantalla de la fase de "log-in" del usuario.
+#+attr_html: :width 100%
+#+name: fig:snap1
+[[./s3.png]]
+
+#+caption: Ejemplo de escenario de tutorial.
+#+attr_html: :width 100%
+#+name: fig:snap2
+[[./s4.png]]
+
+#+caption: Ejemplo de escenario de ejercicio.
+#+attr_html: :width 100%
+#+name: fig:snap3
+[[./s5.png]]
+
+
+
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-xYmx7OGaA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
