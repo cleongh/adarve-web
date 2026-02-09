@@ -28,6 +28,8 @@ El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Em
 * Sistema
 
 
+El software se encuentra publicado en un repositorio de GitHub público: https://github.com/NILGroup/PHD-ADARVE. En él se puede descargar el software.
+
 #+caption: Captura de pantalla de la fase de iniciación a la plataforma expermiental.
 #+attr_html: :width 100%
 #+name: fig:snap1
@@ -64,6 +66,10 @@ El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Em
 # #+attr_html: :width 100%
 # [[./captura_adarve.png]]
 
+
+* Conjuntos de datos
+
+Los datos experimentales se encuentran publicados en Zenodo, disponibles de forma abierta: https://zenodo.org/records/17777875.
 
 * Publicaciones
 
