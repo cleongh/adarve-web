@@ -5,6 +5,22 @@
 
 El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Emergencias Radiológicas) es un proyecto de investigación financiado por el [[https://www.csn.es/home][Consejo de Seguridad Nuclear]].
 
+* Miembros
+
+Investigador principal:
+
+- Carlos León <cleon@ucm.es>
+
+Investigadores:
+
+- Alejandro Villar
+- Pablo Gervás
+- Gonzalo Méndez
+
+* Duración
+
+El proyecto comenzó el 21 de diciembre de 2021 y acabó el 20 de diciembre de 2025 (48 meses). 
+
 * Objetivo
 
 El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Emergencias Radiológicas) propone una combinación de avances tecnológicos en el campo de enseñanza asistida por computadora (realidad virtual, modelado de la respuesta bajo situaciones de estrés, y captura/análisis de datos) para desarrollar una herramienta de formación y entrenamiento para emergencias radiológicas.
