@@ -52,6 +52,7 @@ El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Em
 * Publicaciones
 
 
+- Effectiveness of information modality in virtual reality tutorials . Alejandro Villar, Carlos León. Virtual Reality, Volume 30, article number 2: DOI: 10.1007/s10055-025-01240-y.
 - Experienced video game players interaction preferences with game controllers and haptic gloves. Alejandro Villar, Sergio Baña, Juan Diego Mendoza, Laura Gómez, Javier Muñoz and Carlos León. 24th International Federation for Information Processing – International Conference on Entertainment Computing (IFIP-ICEC 2025), Tokio, 2025.
 - Pruning Worlds into Stories: Affective Interactions as Fitness Function. P. Gervás and Méndez, G., in 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART), Aberystwyth, United Kingdom, 2024.
 - Realidad virtual para entrenamiento en emergencias radiológicas. Carlos León, Alejandro Villar Rubio, Pablo Gervás y Gonzalo Méndez. Alfa. Consejo de Seguridad Nuclear, España. Páginas 52–53. Vol. 57. DOI: https://www.csn.es/documents/10182/13557/Alfa+57/fb8a5187-763f-3651-fdc2-e454d4c6fdeb?version=1.0. ISSN (Online): 1888-8925.

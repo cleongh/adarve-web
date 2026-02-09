@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<!-- 2025-07-15 mar 17:57 -->
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<!-- 2026-02-09 lun 09:30 -->
+<meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ADARVE (Análisis de Datos de Realidad Virtual para formación en Emergencias Radiológicas)</title>
 <meta name="author" content="Carlos León" />
@@ -57,6 +55,7 @@
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
   pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-c:before { content: 'C'; }
   pre.src-C:before { content: 'C'; }
   /* pre.src-C++ doesn't work in CSS */
   pre.src-clojure:before { content: 'Clojure'; }
@@ -201,65 +200,65 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgd941412">1. Descripción</a></li>
-<li><a href="#org78ba3c9">2. Objetivo</a></li>
-<li><a href="#org1569166">3. Sistema</a></li>
-<li><a href="#orgd6e4c98">4. Publicaciones</a></li>
-<li><a href="#orge827e70">5. Enlaces</a></li>
+<li><a href="#org81caaee">1. Descripción</a></li>
+<li><a href="#org49ebe40">2. Objetivo</a></li>
+<li><a href="#orgb907552">3. Sistema</a></li>
+<li><a href="#org501e0a9">4. Publicaciones</a></li>
+<li><a href="#orgf11225e">5. Enlaces</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd941412" class="outline-2">
-<h2 id="orgd941412"><span class="section-number-2">1.</span> Descripción</h2>
+<div id="outline-container-org81caaee" class="outline-2">
+<h2 id="org81caaee"><span class="section-number-2">1.</span> Descripción</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Emergencias Radiológicas) es un proyecto de investigación financiado por el <a href="https://www.csn.es/home">Consejo de Seguridad Nuclear</a>.
 </p>
 </div>
 </div>
-<div id="outline-container-org78ba3c9" class="outline-2">
-<h2 id="org78ba3c9"><span class="section-number-2">2.</span> Objetivo</h2>
+<div id="outline-container-org49ebe40" class="outline-2">
+<h2 id="org49ebe40"><span class="section-number-2">2.</span> Objetivo</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Emergencias Radiológicas) propone una combinación de avances tecnológicos en el campo de enseñanza asistida por computadora (realidad virtual, modelado de la respuesta bajo situaciones de estrés, y captura/análisis de datos) para desarrollar una herramienta de formación y entrenamiento para emergencias radiológicas.
 </p>
 </div>
 </div>
-<div id="outline-container-org1569166" class="outline-2">
-<h2 id="org1569166"><span class="section-number-2">3.</span> Sistema</h2>
+<div id="outline-container-orgb907552" class="outline-2">
+<h2 id="orgb907552"><span class="section-number-2">3.</span> Sistema</h2>
 <div class="outline-text-2" id="text-3">
 
-<div id="orgd92aa69" class="figure">
-<p><img src="./s1.png" alt="s1.png" width="100%" />
+<div id="orgd9d18d6" class="figure">
+<p><img src="./s1.png" alt="s1.png" width="100%">
 </p>
 <p><span class="figure-number">Figure 1: </span>Captura de pantalla de la fase de iniciación a la plataforma expermiental.</p>
 </div>
 
 
-<div id="org7832d6a" class="figure">
-<p><img src="./s2.png" alt="s2.png" width="100%" />
+<div id="orgb22771b" class="figure">
+<p><img src="./s2.png" alt="s2.png" width="100%">
 </p>
 <p><span class="figure-number">Figure 2: </span>Ejemplo de escenario de accidente con un personaje no jugador.</p>
 </div>
 
 
 
-<div id="org2d61804" class="figure">
-<p><img src="./s3.png" alt="s3.png" width="100%" />
+<div id="org4c71985" class="figure">
+<p><img src="./s3.png" alt="s3.png" width="100%">
 </p>
 <p><span class="figure-number">Figure 3: </span>Captura de pantalla de la fase de &ldquo;log-in&rdquo; del usuario.</p>
 </div>
 
 
-<div id="org68fa5ad" class="figure">
-<p><img src="./s4.png" alt="s4.png" width="100%" />
+<div id="org466168e" class="figure">
+<p><img src="./s4.png" alt="s4.png" width="100%">
 </p>
 <p><span class="figure-number">Figure 4: </span>Ejemplo de escenario de tutorial.</p>
 </div>
 
 
-<div id="orgadaee80" class="figure">
-<p><img src="./s5.png" alt="s5.png" width="100%" />
+<div id="orgd604bd5" class="figure">
+<p><img src="./s5.png" alt="s5.png" width="100%">
 </p>
 <p><span class="figure-number">Figure 5: </span>Ejemplo de escenario de ejercicio.</p>
 </div>
@@ -269,10 +268,11 @@ El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Em
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-xYmx7OGaA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orgd6e4c98" class="outline-2">
-<h2 id="orgd6e4c98"><span class="section-number-2">4.</span> Publicaciones</h2>
+<div id="outline-container-org501e0a9" class="outline-2">
+<h2 id="org501e0a9"><span class="section-number-2">4.</span> Publicaciones</h2>
 <div class="outline-text-2" id="text-4">
 <ul class="org-ul">
+<li>Effectiveness of information modality in virtual reality tutorials . Alejandro Villar, Carlos León. Virtual Reality, Volume 30, article number 2: DOI: 10.1007/s10055-025-01240-y.</li>
 <li>Experienced video game players interaction preferences with game controllers and haptic gloves. Alejandro Villar, Sergio Baña, Juan Diego Mendoza, Laura Gómez, Javier Muñoz and Carlos León. 24th International Federation for Information Processing – International Conference on Entertainment Computing (IFIP-ICEC 2025), Tokio, 2025.</li>
 <li>Pruning Worlds into Stories: Affective Interactions as Fitness Function. P. Gervás and Méndez, G., in 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART), Aberystwyth, United Kingdom, 2024.</li>
 <li>Realidad virtual para entrenamiento en emergencias radiológicas. Carlos León, Alejandro Villar Rubio, Pablo Gervás y Gonzalo Méndez. Alfa. Consejo de Seguridad Nuclear, España. Páginas 52–53. Vol. 57. DOI: <a href="https://www.csn.es/documents/10182/13557/Alfa+57/fb8a5187-763f-3651-fdc2-e454d4c6fdeb?version=1.0">https://www.csn.es/documents/10182/13557/Alfa+57/fb8a5187-763f-3651-fdc2-e454d4c6fdeb?version=1.0</a>. ISSN (Online): 1888-8925.</li>
@@ -290,8 +290,8 @@ El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Em
 </ul>
 </div>
 </div>
-<div id="outline-container-orge827e70" class="outline-2">
-<h2 id="orge827e70"><span class="section-number-2">5.</span> Enlaces</h2>
+<div id="outline-container-orgf11225e" class="outline-2">
+<h2 id="orgf11225e"><span class="section-number-2">5.</span> Enlaces</h2>
 <div class="outline-text-2" id="text-5">
 <ul class="org-ul">
 <li><a href="http://nil.fdi.ucm.es/?q=projects/adarve">Enlace al proyecto en la página de investigación del grupo NIL-UCM</a>.</li>
@@ -301,8 +301,7 @@ El proyecto ADARVE (Análisis de Datos de Realidad Virtual para formación en Em
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Carlos León</p>
-<p class="date">Created: 2025-07-15 mar 17:57</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2026-02-09 lun 09:30</p>
 </div>
 </body>
 </html>
